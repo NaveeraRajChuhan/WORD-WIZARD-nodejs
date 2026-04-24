@@ -392,3 +392,94 @@ playerNameInput.addEventListener('keypress', (e) => {
 document.getElementById('closeResults')?.addEventListener('click', () => {
     resultsCard.style.display = 'none';
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//----------------------------------------------------------------- how to play ------------------------
+
+// # Navigate to project folder
+// cd word-wizard
+
+// # Install dependencies
+// npm install
+
+// # Start the game server
+// npm start
+
+// # Or for development with auto-restart
+// npm run dev
+
+
+
+
+
+
+
+
+
+
+
+
+// Step 5: Play the Game
+// Open your browser and go to: http://localhost:3000
+
+// Step 6: Invite Friends
+// Share your IP address with friends so they can join the same game!
+
+// Game Features:
+// 🎮 Gameplay:
+// Real-time multiplayer word guessing
+
+// Emoji-based clues for each word
+
+// Timer-based rounds (30 seconds)
+
+// Points based on speed (faster = more points)
+
+// 🎯 Categories:
+// 🐾 Animals
+
+// 🍕 Food
+
+// 🎬 Movies
+
+// ⚽ Sports
+
+// 😊 Emotions
+
+// ✨ Special Features:
+// Hint system (reveal random letters)
+
+// Live leaderboard
+
+// Global chat system
+
+// Celebration animations
+
+// Sound effects (visual)
+
+// 📊 Statistics:
+// Player scores
+
+// Correct guesses count
+
+// Best round performance
+
+// Global rankings
+
+// The game is fully functional and ready to play with friends! 🎉
